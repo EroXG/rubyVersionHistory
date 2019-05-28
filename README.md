@@ -3,7 +3,7 @@
 ![](image/screen_shot.jpg)
 # Usage #
 1. Save this html
-1. View by  your browser
+1. View by  your PC browser
 # RubyVersionHistoryTable Description #
 Version data comes from the site  [ruby-doc.org](http://ruby-doc.org/) "Core API".  
 Not contain "Standard Library API"
@@ -31,4 +31,5 @@ Type column contain ...
 1. **#** instance method
 
 ### Version ###
-Other columns show ruby versions. e.g 2.6.3, 2.6.2, and so on. In each cell, check mark means "defined on the version" and X mark means "undefined on the version".
+Other columns show ruby versions. e.g 2.6.3, 2.6.2, and so on. Each column header string is html link to each version page in ruby-doc.org.  
+In each cell, [check mark](https://en.wikipedia.org/wiki/Check_mark) means "defined on the version" and[ X mark ](https://en.wikipedia.org/wiki/X_mark)means "not defined on the version".

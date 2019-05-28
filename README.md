@@ -2,7 +2,10 @@
 # Screen Shot #
 ![](image/screen_shot.jpg)
 # Usage #
-1. Save this html
+See [my github.io page](https://eroxg.github.io/rubyVersionHistoryTable/rubyVersionHistoryTableEn.html)
+
+OR
+1. Save html in docs directory
 1. View by  your PC browser
 # RubyVersionHistoryTable Description #
 Version data comes from the site  [ruby-doc.org](http://ruby-doc.org/) "Core API".  
